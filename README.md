@@ -1,7 +1,7 @@
 
 This was an assignment created with the collaboration of two students.
 
-	# An example of an operating system problem (where there are n number of  processes and the system sees where the next process finishes to have the next process placed) would be the activity selection process. The activity selection process has a start time, end time, and the profit of the schedule denoted as the following (S1,,F1, P1) respectively. Where the output is a set of activities that are most profitable.
+An example of an operating system problem (where there are n number of  processes and the system sees where the next process finishes to have the next process placed) would be the activity selection process. The activity selection process has a start time, end time, and the profit of the schedule denoted as the following (S1,,F1, P1) respectively. Where the output is a set of activities that are most profitable.
 
 
 (Source: Gekko, Gordon. "Greed Is Good? Prove It!" Python Algorithms. N.p., Fall 2014. Web. 19 Nov. 2016. )
